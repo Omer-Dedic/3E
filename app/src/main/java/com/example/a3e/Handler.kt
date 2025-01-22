@@ -22,7 +22,7 @@ val COL_DAT = "datumRodjenja"
 val COL_KAT = "kategorija"
 val COL_NAP = "napomena"
 
-class Handler( var context: Context) : SQLiteOpenHelper(context, DATABASE_NAME,null,30){
+class Handler( var context: Context) : SQLiteOpenHelper(context, DATABASE_NAME,null,31){
     override fun onCreate(db: SQLiteDatabase?) {
         val createTable = """CREATE TABLE $TABLE_NAME  (
                 $COL_ID  INTEGER PRIMARY KEY AUTOINCREMENT, 
