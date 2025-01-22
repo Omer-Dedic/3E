@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Boja pozadine -->
+    <solid android:color="#FFFFFF" /> <!-- Boja pozadine -->
+
+    <!-- Granica (border) -->
+    <stroke
+        android:width="2dp"
+        android:color="#000000" /> <!-- Boja granice -->
+
+</shape>

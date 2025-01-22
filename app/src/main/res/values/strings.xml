@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">3E</string>
+    <string name="logo">logo</string>
+    <string name="korisničko_ime">Korisničko ime</string>
+    <string name="pzs">polje za unos</string>
+    <string name="prazno" />
+    <string name="wasd">"  "</string>
+    <string name="t" />
+    <string name="sifra">Šifra</string>
+    <string name="prijavabtn">Prijavi se</string>
+    <string name="opislogoslike">logoslika</string>
+    <string name="omladinska">OMLADINSKA</string>
+    <string name="skola">ŠKOLA</string>
+    <string name="nogometa">NOGOMETA</string>
+    <string name="dodaj_igra_a">Dodaj igrača</string>
+    <string name="dodaj_kategoriju">Dodaj kategoriju</string>
+    <string name="otka_i">Otkaži</string>
+    <string name="sa_uvaj">Sačuvaj</string>
+    <string name="ime">Ime</string>
+    <string name="prezime">Prezime</string>
+    <string name="datum_ro_enja">Datum rođenja</string>
+    <string name="datum_ro_enjaa">Datum rođenja:</string>
+    <string name="dd_mm_gggg">DD-MM-GGGG</string>
+    <string name="clanarina">Članarina</string>
+    <string name="clanarinaa">Članarina:</string>
+    <string name="kategorija">Kategorija</string>
+    <string name="kategorijaa">Kategorija:</string>
+    <string name="napomena">Napomena</string>
+    <string name="napomenaa">Napomena:</string>
+    <string name="naziv_kategorije">Naziv kategorije</string>
+    <string name="nazad">Nazad</string>
+    <string name="uredi">Uredi</string>
+    <string name="ime_prezime">Ime Prezime</string>
+    <string name="sve_uplate">Sve uplate</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet...</string>
+    <string name="obri_i">Obriši</string>
+    <string name="januar">Januar</string>
+    <string name="crtica">-</string>
+    <string name="februar">Februar</string>
+    <string name="mart">Mart</string>
+    <string name="april">April</string>
+    <string name="maj">Maj</string>
+    <string name="juni">Juni</string>
+    <string name="juli">Juli</string>
+    <string name="august">August</string>
+    <string name="septembar">Septembar</string>
+    <string name="oktobar">Oktobar</string>
+    <string name="novembar">Novembar</string>
+    <string name="decembar">Decembar</string>
+    <string name="datum1">03-04.10</string>
+    <string name="datum2">07-07.11</string>
+    <string name="datum3">10-11.12</string>
+    <string name="datum4">11-11.01</string>
+    <string name="godina">2024</string>
+    <string name="lista_igraca">Lista igrača</string>
+    <string name="izbri_i_kategoriju">Izbriši kategoriju</string>
+    <string name="obri_i_kategoriju">Obriši kategoriju</string>
+    <string name="uplata">Uplata</string>
+    <string name="created_by">Created by:</string>
+    <string name="creator">Omer Dedić</string>
+    <string name="mail">omer.dedicc@gmail.com</string>
+    <string name="uplate_po_kategorijama">Uplate po kategorijama</string>
+    <string name="lanova_u_kategoriji">Članova u kategoriji:</string>
+    <string name="upla_enih_lanarina">Uplaćenih članarina:</string>
+    <string name="neupla_enih_lanarina">Neuplaćenih članarina:</string>
+    <string-array name="clanarina">
+        <item>Izaberi opciju</item>
+        <item>1 mjesec</item>
+        <item>2 mjeseca</item>
+        <item>3 mjeseca</item>
+        <item>4 mjeseca</item>
+        <item>5 mjeseci</item>
+        <item>6 mjeseci</item>
+        <item>7 mjeseci</item>
+        <item>8 mjeseci</item>
+        <item>9 mjeseci</item>
+        <item>10 mjeseci</item>
+        <item>11 mjeseci</item>
+        <item>1 godina</item>
+    </string-array>
+    <string-array name="clanarinaEdit">
+        <item>Preskoči</item>
+        <item>1 mjesec</item>
+        <item>2 mjeseca</item>
+        <item>3 mjeseca</item>
+        <item>4 mjeseca</item>
+        <item>5 mjeseci</item>
+        <item>6 mjeseci</item>
+        <item>7 mjeseci</item>
+        <item>8 mjeseci</item>
+        <item>9 mjeseci</item>
+        <item>10 mjeseci</item>
+        <item>11 mjeseci</item>
+        <item>1 godina</item>
+    </string-array>
+    <string-array name="kategorija">
+        <item>Izaberi opciju</item>
+        <item>Grupa 1</item>
+        <item>Grupa 2</item>
+    </string-array>
+    <string-array name="godine">
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+    </string-array>
+</resources>

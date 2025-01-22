@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pozadina Spinner-a -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white" />
+            <stroke android:width="2dp" android:color="#000000" />
+        </shape>
+    </item>
+
+    <!-- Strelica na desnoj strani -->
+    <item android:gravity="end|center_vertical">
+        <inset
+            android:drawable="@drawable/strelica"
+            android:insetLeft="5dp"
+            android:insetTop="5dp"
+            android:insetRight="20dp"
+            android:insetBottom="5dp"
+            android:gravity="end|center_vertical" />
+    </item>
+</layer-list>
